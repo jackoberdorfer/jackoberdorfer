@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack!
+- 👋 Hi, My name is Jack Oberdorfer!
 - 😄 Pronouns: he/him
 - 📫 Email: jackoberdorfer14@gmail.com
 - 🌱 I’m currently pursuing a MS in Applied Data Analytics at Boston University. I'm also a recent UC Berkeley graduate with a BA in Cognitive Science and a minor in Data Science.
